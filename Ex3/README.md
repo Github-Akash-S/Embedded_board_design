@@ -20,7 +20,7 @@ Uplode the elf file and run.
 
 ### Schematic:
 
-![schematic](https://user-images.githubusercontent.com/65499285/233920066-455187c2-bbb1-4635-8f8a-0b0bba4c39aa.png)
+
 
 ### Code:
 ```
