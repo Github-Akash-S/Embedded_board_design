@@ -21,7 +21,7 @@ Assembly: Once you receive the fabricated PCBs, start the assembly process. Sold
 Testing: After assembly, perform thorough testing of the development board. Check for any short circuits, open connections, or incorrect component placements. Test the functionality and verify that the STM32 microcontroller and peripherals are working as expected.
 
 Output:
-
+![WhatsApp Image 2023-05-24 at 21 26 55](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/e28cc0dc-da6e-4e77-9f5b-dbfe11dce90d)
 
 Result
 The result of this project is a fully functional STM32 Development board that can be used for various embedded systems projects, prototyping, and testing. With this board, developers can quickly start working on STM32 microcontroller-based projects without the need for designing the board from scratch.
