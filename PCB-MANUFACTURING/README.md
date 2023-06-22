@@ -1,9 +1,9 @@
-#Design and Develop a PCB Board
+# Design and Develop a PCB Board
 
-##AIM:
+## AIM:
 To design and develop a PCB board for any specific application. 
 
-##DESIGN STEPS:
+## DESIGN STEPS:
 
 1)Design the schematic using Eagle.
 
@@ -19,26 +19,26 @@ To design and develop a PCB board for any specific application.
 
 7)Run the machine to mill traces, drill holes, and cut out the PCB.
 
-G-CODE: attached in this folder
+# G-CODE: attached in this folder
 
-##Schematic diagram:
+## Schematic diagram:
 
 ![Capture](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/5ad6ce3e-3b95-432b-a587-f0178731c3ca)
 
 
-##PCB layout:
+## PCB layout:
 
 ![er](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/d933fea9-dc12-4b25-abef-3e5b506fd3b9)
 
 
-##Coppercam layout:
+## Coppercam layout:
 
 ![hh](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/4479141a-09c1-423f-a55f-5db69f95f6ec)
 
 
-##Output:
+## Output:
 
 
 
-#RESULT:
+# RESULT:
 Thus, a PCB board is designed and developed for a specific application.
