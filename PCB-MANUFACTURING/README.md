@@ -19,13 +19,7 @@ To design and develop a PCB board for any specific application.
 
 7)Run the machine to mill traces, drill holes, and cut out the PCB.
 
-#G-CODE:
-
-engraving layer: https.//github.com/AYcoder22/Embedded_board_design/engra.txt
-
-drill layer:
-
-cutting layer:
+G-CODE: attached in this folder
 
 ##Schematic diagram:
 
