@@ -36,7 +36,8 @@ To design and develop a PCB board for any specific application.
 ![hh](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/4479141a-09c1-423f-a55f-5db69f95f6ec)
 
 
-## Output:
+## Manufactured PCB:
+![ak](https://github.com/AYcoder22/Embedded_board_design/assets/69795479/ad31871a-8909-4cd3-b92e-5ebf97decb7a)
 
 
 
